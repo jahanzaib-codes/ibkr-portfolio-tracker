@@ -1,0 +1,11 @@
+# Ignore Google Sheets credentials
+credentials.json
+
+# Python cache and virtual environment
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Other
+*.log
